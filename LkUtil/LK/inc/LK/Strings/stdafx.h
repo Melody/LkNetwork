@@ -1,0 +1,8 @@
+﻿#include "classes.h"
+#include "CStrings.h"
+#include "Convert.h"
+#include "Split.h"
+#include "IndexOf.h"
+#include "CountOf.h"
+#include "StartsWith.h"
+#include "EndsWith.h"

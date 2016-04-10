@@ -1,0 +1,6 @@
+﻿#include"placementnew.h"
+#include"LeakChecking.h"
+#include"ReferenceCount.h"
+#include"SharedPointer.h"
+#include"WeakPointer.h"
+#include"Buffer.h"
